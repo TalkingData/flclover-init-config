@@ -1,6 +1,6 @@
 {
-  "name": "egg-init-config",
-  "version": "1.2.0",
+  "name": "flclover-init-config",
+  "version": "1.0.0",
   "description": "egg init boilerplate config",
   "files": [
     "index.js"
@@ -8,27 +8,27 @@
   "config": {
     "boilerplate": {
       "simple": {
-        "package": "egg-boilerplate-simple",
+        "package": "flclover-boilerplate-simple",
         "description": "Simple egg app boilerplate"
       },
       "empty": {
-        "package": "egg-boilerplate-empty",
+        "package": "flclover-boilerplate-empty",
         "description": "Empty egg app boilerplate"
       },
       "plugin": {
-        "package": "egg-boilerplate-plugin",
+        "package": "flclover-boilerplate-plugin",
         "description": "egg plugin boilerplate"
       },
       "framework": {
-        "package": "egg-boilerplate-framework",
+        "package": "flclover-boilerplate-framework",
         "description": "egg framework boilerplate"
       }
     }
   },
-  "homepage": "https://github.com/eggjs/egg-init-config",
+  "homepage": "https://github.com/flcloverjs/flclover-init-config",
   "repository": {
     "type": "git",
-    "url": "https://github.com/eggjs/egg-init-config.git"
+    "url": "https://github.com/flcloverjs/flclover-init-config.git"
   },
   "bugs": {
     "email": "fengmk2@gmail.com",
